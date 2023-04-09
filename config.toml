@@ -1,0 +1,21 @@
+# Site Information
+title = "Horses are Beautiful"
+description = "We love horses and wanted to find a way to productively share our love with the world. This project puts a lot of focus on teaching how to care for these beautiful animals in all ways."
+base_url = "https://horsesarebeautiful.com"
+
+# Core Settings
+compile_sass = true
+generate_feed = true
+build_search_index = false
+
+# Theme Settings
+theme = "float"
+
+taxonomies = [{ name = "tags", paginate_by = 10 }, { name = "authors" }]
+
+[extra]
+main_section = "blog"
+google_analytics = false
+# google_analytics_id = "UA-"
+google_adsense = false
+# google_adsense_id = "ca-pub-"
