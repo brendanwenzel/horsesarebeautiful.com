@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Horses are Beautiful</title>
+	<subtitle>We love horses and wanted to find a way to productively share our love with the world. This project puts a lot of focus on teaching how to care for these beautiful animals in all ways.</subtitle>
+	<link href="https://horsesarebeautiful.com/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://horsesarebeautiful.com"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-06-15T00:00:00+00:00</updated>
+	<id>https://horsesarebeautiful.com/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Float theme for Zola</title>
+		<published>2020-06-15T00:00:00+00:00</published>
+		<updated>2020-06-15T00:00:00+00:00</updated>
+		<link href="https://horsesarebeautiful.com/blog/2020/zola-theme-float/" type="text/html"/>
+		<id>https://horsesarebeautiful.com/blog/2020/zola-theme-float/</id>
+		<summary>Float features and usage guide</summary>
+		
+	</entry>
+</feed>
